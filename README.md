@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shashwat-r-s
-- 👀 I’m interested in Blockchain,Web3,Crypto
-- 🌱 I’m currently learning Python,SQL,Solidity
+- 👀 I’m interested in Blockchain,Web3,Crypto,Data Science
+- 🌱 I’m currently learning Python,SQL,Solidity,Data Science,Java
 - 📫 How to reach me @Shashwat_r_s 
 
 <!---
