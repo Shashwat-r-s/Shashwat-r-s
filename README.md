@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shashwat-r-s
+👋 Hi, I’m @Shashwat-r-s
 **Data Analytics | University of Sydney MCom | Python · SQL · Power BI**
 
 Data analyst with 2 years of ETL/data pipeline experience at Capgemini and 
